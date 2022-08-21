@@ -17,7 +17,7 @@ Name of the team members:
 * Pooja: Pooja#0884
 ### E-mail
 * Tuçe: tucecarki0@gmail.com
-* Shreya: #shreyasatsangi170159@dei.ac.in
+* Shreya: shreyasatsangi170159@dei.ac.in
 * Mohamad:
 * Preeti: sharma.preeti.cc@gmail.com
 * Pooja:
