@@ -9,5 +9,21 @@ Name of the team members:
 - Mohamad El Harery
 - Preeti Sharma
 - Pooja Pava
-## Dıscord ID
- 
+### Discord ID
+* Tuçe: Tuce#4930
+* Shreya: 
+* Mohamad:
+* Preeti:
+* Pooja:
+### E-mail
+* Tuçe: tucecarki0@gmail.com
+* Shreya: 
+* Mohamad:
+* Preeti: sharma.preeti.cc@gmail.com
+* Pooja
+### GitHub ID
+* Tuçe : #
+* Shreya
+* Mohamad
+* Preeti: #99601660
+* Pooja
