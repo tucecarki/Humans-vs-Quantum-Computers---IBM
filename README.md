@@ -20,7 +20,7 @@ Name of the team members:
 * **Shreya:** shreyasatsangi170159@dei.ac.in
 * **Mohamad:**
 * **Preeti:** sharma.preeti.cc@gmail.com
-* **Pooja:**
+* **Pooja:** poojayadav13032003@gmail.com
 ### GitHub ID
 * **Tuçe:** #92291655
 * **Shreya:** #87295264
